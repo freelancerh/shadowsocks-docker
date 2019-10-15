@@ -1,2 +1,2 @@
 # shadowsocks-docker
-shadowsocks服务端 DockerFile
+CentOS shadowsocks服务端 DockerFile
